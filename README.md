@@ -2,7 +2,7 @@
 
 Intern in systems support for the pharmaceutical area sales force, studying Systems Analysis and Development at UNIP, passionate about technology, I am always looking for knowledge.
 
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hparizani&theme=dark&locale=pt-br)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hparizani&theme=dark&locale=)
 
 ### 🧑🏽‍💻 Programming Languages
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
